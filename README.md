@@ -5,9 +5,11 @@ I'm Muhammad Danish Khan, trying to learn something new each day. I'm a final ye
 
 ### Talking about personal stuffs:
 
-- 🔭 I’m currently working on Face Recognition Attendance System.
-- 🌱 I’m currently learning Web and Android Development
+- 🌱 I’ve recently completed project on Face Recognition Attendance System.
+- 🔭 I’m currently learning Flutter and Android Development
+- 📫 You can connect with me: iamdanishk555@gmail.com
 
+<br>
 
 ### Languages & Tools
 <div>
@@ -17,12 +19,12 @@ I'm Muhammad Danish Khan, trying to learn something new each day. I'm a final ye
 <img src="https://img.shields.io/badge/Android-02569B?style=flat-square&logo=android&logoColor=brightgreen">
 <img src="https://img.shields.io/badge/IDE-android%20studio-green">  
 </div>
-<br><br>     
+<br>    
   
   
 ### GitHub Statistics
 <div>
     
-[![Mahdi Gharooni GitHub Stats](https://github-readme-stats.vercel.app/api?username=imdanishk&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)    
+[![Danish Khan GitHub Stats](https://github-readme-stats.vercel.app/api?username=imdanishk&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)    
     
 </div> 
