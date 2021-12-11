@@ -24,6 +24,6 @@ I'm Muhammad Danish Khan, trying to learn something new each day. I'm a final ye
 ### GitHub Statistics
 <div>
     
-[![Mahdi Gharooni GitHub Stats](https://github-readme-stats.vercel.app/api?username=iamdanishk&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)    
+[![Mahdi Gharooni GitHub Stats](https://github-readme-stats.vercel.app/api?username=imdanishk&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)    
     
 </div> 
