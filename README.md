@@ -7,7 +7,7 @@ I'm Muhammad Danish Khan, trying to learn something new each day. I'm a final ye
 
 - 🌱 I’ve recently completed project on Face Recognition Attendance System.
 - 🔭 I'm currently working as an Android Developer.
-- 🔭 I’m currently learning Flutter (Cross-platform App Development).
+- 🔭 I’m currently learning Flutter (Cross-platform App Development) and Node.js (Backend Development).
 - 📫 You can connect with me: iamdanishk555@gmail.com
 
 <br>
